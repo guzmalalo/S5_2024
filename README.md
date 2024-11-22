@@ -8,7 +8,7 @@
 
 ## Todo
 
--[ ] Faire un cdc
+- [ ] Faire un cdc
 
 
 ## Structures
@@ -21,3 +21,5 @@ struct B{
 
 
 $$e= mc^2$$
+
+> One quote
