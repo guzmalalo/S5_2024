@@ -2,4 +2,6 @@
 Demo GitHub
 Modification Eduardo
 
-### How to markdown help
+Rajouté dans la phase merge 
+## Github c'est facile et soudainement il y a 11 branches et 5 collaborateurs et les merges donnent envie de mourir.
+
